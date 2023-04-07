@@ -8,4 +8,4 @@ D-Delete
 
 Tecnology= HTML,CSS and JavaScript
 
-from the localhost 
+LocalHost=http://127.0.0.1:5500/index.html
